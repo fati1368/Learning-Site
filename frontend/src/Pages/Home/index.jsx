@@ -54,7 +54,7 @@ export default function Home() {
               </div>
               <div className="mt-8 lg:w-px order-1 lg:order-2 lg:h-[391px] xl:h-[530px] 3xl:h-[580px]">
                 <img
-                  src="/image/hero/hero-light.svg"
+                  src="/assets/image/hero/hero-light.svg"
                   className="dark:hidden lg:absolute left-0 right-0 lg:right-auto top-8 lg:top-0 mx-auto lg:w-[580px] xl:w-auto 3xl:w-[946px]"
                   alt="Sabzlearn"
                 />

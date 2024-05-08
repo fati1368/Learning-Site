@@ -16,7 +16,7 @@ export default function Header() {
             <div className="lg:ml-8">
               <NavLink to="/" className="block" title="سبز لرن">
                 <img
-                  src="./image/logo/logo.webp"
+                  src="./assets/image/logo/logo.webp"
                   className="h-12"
                   alt="سبز لرن"
                   loading="lazy"
@@ -26,7 +26,7 @@ export default function Header() {
             <div className="navigation lg:hidden bg-white dark:bg-darker w-64 overflow-y-auto fixed top-0 bottom-0 -right-64 z-50 p-4.5 transition-all">
               <div className="flex items-center justify-between pb-6 relative border-b border-b-neutral-200 dark:border-b-white/10">
                 <img
-                  src="./image/logo/logo.webp"
+                  src="./assets/image/logo/logo.webp"
                   className="h-12"
                   alt="سبز لرن"
                 />
